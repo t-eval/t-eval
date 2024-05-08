@@ -1,6 +1,6 @@
-<h1>Tommaso Bruno; @tommasobruno</h1>
+<h1>Tommaso Bruno</h1>
 
-Hey, I am a software engineer currently working in the identity and access management field.
+Hey, I am a software engineer currently working at @kaluza in the identity and access management field.
 
 - I am currently learning Zig
 
